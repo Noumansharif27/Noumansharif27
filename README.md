@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Noumansharif27
+- 👋 Hi, I’m Nouman Sharif
 - 👀 I’m interested in art of computer and programming.
 - 🌱 I’m currently learning CS50 intro to cs by Harvard Universityat EDX.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me ...
 
 <!---
