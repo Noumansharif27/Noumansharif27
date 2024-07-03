@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript , C, C++ & Projects**
 
-- 📫 How to reach me **noumansharifgulgmail.com**
+- 📫 How to reach me **noumansharifgul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
