@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 
-- 🔭 I’m currently working on **Competitive Pogramming**
+- 🔭 I’m currently working as a **Senior network administrator**
 
 - 🌱 I’m currently learning **Web development**
 
